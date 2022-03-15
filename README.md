@@ -1,4 +1,4 @@
-# uni4all - _[your product name]_ Development Report
+# _[your product name]_ Development Report
 
 Welcome to the documentation pages of the _[your product name]_ of **uni4all**!
 
