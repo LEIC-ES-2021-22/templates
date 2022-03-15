@@ -1,6 +1,6 @@
-# uni4all - _[your (sub)product name]_ Development Report
+# uni4all - _[your product name]_ Development Report
 
-Welcome to the documentation pages of the _[your (sub)product name]_ of **uni4all**!
+Welcome to the documentation pages of the _[your product name]_ of **uni4all**!
 
 You can find here detailed about the (sub)product, hereby mentioned as module, from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of RUP): 
 
