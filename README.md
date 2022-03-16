@@ -1,8 +1,8 @@
-# uni4all - _[your (sub)product name]_ Development Report
+_[your product name]_ Development Report
 
-Welcome to the documentation pages of the _[your product name]_ of **uni4all**!
+Welcome to the documentation pages of the _[your product name]_!
 
-You can find here detailed about the (sub)product, hereby mentioned as module, from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of RUP): 
+You can find here detailed about the product (or mini-app or module), from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of RUP): 
 
 * Business modeling 
   * [Product Vision](#Product-Vision)
@@ -173,7 +173,7 @@ A good practice is to simplify this, avoiding repetitions, and automating the te
 
 Configuration and change management are key activities to control change to, and maintain the integrity of, a project’s artifacts (code, models, documents).
 
-For the purpose of ESOF, we will use a very simple approach, just to manage feature requests, bug fixes, and improvements, using GitHub issues and following the [GitHub flow](https://guides.github.com/introduction/flow/).
+For the purpose of ES, we will use a very simple approach, just to manage feature requests, bug fixes, and improvements, using GitHub issues and following the [GitHub flow](https://guides.github.com/introduction/flow/).
 
 
 ---
@@ -182,19 +182,12 @@ For the purpose of ESOF, we will use a very simple approach, just to manage feat
 
 Software project management is an art and science of planning and leading software projects, in which software projects are planned, implemented, monitored and controlled.
 
-In the context of ESOF, we expect that each team adopts a project management tool capable of registering tasks, assign tasks to people, add estimations to tasks, monitor tasks progress, and therefore being able to track their projects.
+In the context of ES, we expect that each team to use [Github Projects](https://github.com/features/project-management/com) for registering tasks, assign tasks to people, add estimations to tasks, monitor tasks progress, and therefore being able to track their projects.
 
-Example of tools to do this are:
-  * [Trello.com](https://trello.com)
-  * [Github Projects](https://github.com/features/project-management/com)
-  * [Pivotal Tracker](https://www.pivotaltracker.com)
-  * [Jira](https://www.atlassian.com/software/jira)
-
-We recommend to use the simplest tool that can possibly work for the team.
 
 
 ---
 
-## Evolution - contributions to open-cx
+## Evolution - contributions to uni4all
 
-Describe your contribution to open-cx (iteration 5), linking to the appropriate pull requests, issues, documentation.
+Describe your contribution to uni4all (iteration 5), linking to the appropriate pull requests, issues, documentation.
