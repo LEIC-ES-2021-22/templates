@@ -3,11 +3,9 @@
 
 In this section, you should describe all kinds of requirements for your module: functional and non-functional requirements.
 
-Start by contextualizing your module, describing the main concepts, terms, roles, scope and boundaries of the application domain addressed by the project.
-
 ### Use case model 
 
-Create a use-case diagram in UML with all high-level use cases possibly addressed by your module.
+Create a use-case diagram in UML with all high-level use cases possibly addressed by your module, to clarify the context and boundaries of your application.
 
 Give each use case a concise, results-oriented name. Use cases should reflect the tasks the user needs to be able to accomplish using the system. Include an action verb and a noun. 
 
