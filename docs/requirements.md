@@ -24,28 +24,15 @@ Briefly describe each use case mentioning the following:
 * **Normal Flow**. Provide a detailed description of the user actions and system responses that will take place during execution of the use case under normal, expected conditions. This dialog sequence will ultimately lead to accomplishing the goal stated in the use case name and description. This is best done as a numbered list of actions performed by the actor, alternating with responses provided by the system. 
 * **Alternative Flows and Exceptions**. Document other, legitimate usage scenarios that can take place within this use case, stating any differences in the sequence of steps that take place. In addition, describe any anticipated error conditions that could occur during execution of the use case, and define how the system is to respond to those conditions. 
 
-
-Example:
- <p align="center" justify="center">
-  <img src="https://github.com/LEIC-ES-2021-22/templates/blob/main/images/UseCase.png"/>
-</p>
 | | |
 | --- | --- |
 | *Name* | Purchase tickets online |
-| *Actor* |  Customer | |
+| *Actor* |  Customer | 
 | *Description* | The customer purchases one or more tickets for an event, using an electronic payment method, having the option to choose places. |
 | *Preconditions* | * The customer has electronic payment means. <br> * The event has tickets available on-sale. |
 | *Postconditions* | * The customer gets the electronic tickets with a QR code. <br> * The customer is charged of the tickets’ cost, and the seller credited. <br> * Information of tickets sold & seats available for the event is updated. |
-| *Normal flow* | 1. The customer accesses the web page of the ticketing system.<br>
-2. The system shows the list of events with tickets on-sale.<br>
-3. The customer selects the event and the number of tickets.<br>
-4. If wanted, the costumer may Choose Places.<br>
-5. The system shows the total price to pay.<br>
-6. The system redirects the customer to Electronic Payment.<br>
-7. The system delivers the electronic tickets to the customer with a unique identifier and QR code.
- |
-| *Alternative flows and exceptions* |1. [Payment failure] If, in step 6 of the normal flow the payment fails, the system gives the user the possibility to cancel or retry. 
- |
+| *Normal flow* | 1. The customer accesses the web page of the ticketing system.<br> 2. The system shows the list of events with tickets on-sale.<br> 3. The customer selects the event and the number of tickets.<br> 4. If wanted, the costumer may Choose Places.<br> 5. The system shows the total price to pay.<br> 6. The system redirects the customer to Electronic Payment.<br> 7. The system delivers the electronic tickets to the customer with a unique identifier and QR code. |
+| *Alternative flows and exceptions* | 1. [Payment failure] If, in step 6 of the normal flow the payment fails, the system gives the user the possibility to cancel or retry. |
 
 ### Domain model
 
