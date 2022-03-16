@@ -48,4 +48,12 @@ At the end, it is good to add a rough indication of the value of the user story 
 
 ### Domain model
 
-To better understand the context of the software system, it is very useful to have a simple UML class diagram with all the key concepts (names, attributes) and relationships involved of the problem domain addressed by your module.
+To better understand the context of the software system, it is very useful to have a simple UML class diagram with all the key concepts (names, attributes) and relationships involved of the problem domain addressed by your module. 
+Also provide a short textual description of each class. 
+
+Example:
+ <p align="center" justify="center">
+  <img src="https://github.com/LEIC-ES-2021-22/templates/blob/main/images/DomainModel.png"/>
+</p>
+
+
