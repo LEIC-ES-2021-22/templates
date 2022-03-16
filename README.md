@@ -1,4 +1,4 @@
-# _[your product name]_ Development Report
+# uni4all - _[your (sub)product name]_ Development Report
 
 Welcome to the documentation pages of the _[your product name]_ of **uni4all**!
 
@@ -8,7 +8,7 @@ You can find here detailed about the (sub)product, hereby mentioned as module, f
   * [Product Vision](#Product-Vision)
   * [Elevator Pitch](#Elevator-Pitch)
 * Requirements
-  * [Use Case Diagram](#Use-case-diagram)
+  * [Use Case Model](#Use-case-diagram)
   * [User stories](#User-stories)
   * [Domain model](#Domain-model)
 * Architecture and Design
@@ -60,7 +60,7 @@ In this section, you should describe all kinds of requirements for your module: 
 
 Start by contextualizing your module, describing the main concepts, terms, roles, scope and boundaries of the application domain addressed by the project.
 
-### Use case diagram 
+### Use case model 
 
 Create a use-case diagram in UML with all high-level use cases possibly addressed by your module.
 
