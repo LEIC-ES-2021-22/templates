@@ -36,7 +36,7 @@ Example:
 | *Alternative flows and exceptions* | 1. [Payment failure] If, in step 6 of the normal flow the payment fails, the system gives the user the possibility to cancel or retry. |
 
 ### User stories
-This section will contain the requirements of the product described as **user stories** organized in a global **[user story map](https://plan.io/blog/user-story-mapping/)** with **user roles** or **themes**. For each theme, or role, you may add a small description. 
+This section will contain the requirements of the product described as **user stories**. 
 
 A user story is a description of desired functionality told from the perspective of the user or customer. A starting template for the description of a user story is 
 
