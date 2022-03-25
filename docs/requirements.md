@@ -11,7 +11,9 @@ Give each use case a concise, results-oriented name. Use cases should reflect th
 
 Example:
 
-[7. L.EIC-ES-2021-22-Use Case and Domain Modeling with UML.pdf](https://github.com/LEIC-ES-2021-22/templates/files/8352315/7.L.EIC-ES-2021-22-Use.Case.and.Domain.Modeling.with.UML.pdf)
+ <p align="center" justify="center">
+  <img src="https://github.com/LEIC-ES-2021-22/templates/blob/main/images/UseCaseView.png"/>
+</p>
 
 Briefly describe each use case mentioning the following:
 
