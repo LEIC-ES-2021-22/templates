@@ -11,7 +11,7 @@ You can find here detailed about the product (or mini-app or module), from a hig
   * [Use Case Model](https://github.com/LEIC-ES-2021-22/templates/blob/main/docs/requirements.md#Use-case-model)
   * [User stories](https://github.com/LEIC-ES-2021-22/templates/blob/main/docs/requirements.md#User-stories)
   * [Domain model](https://github.com/LEIC-ES-2021-22/templates/blob/main/docs/requirements.md#Domain-model)
-* [Architecture and Design]
+* [Architecture and Design](https://github.com/LEIC-ES-2021-22/templates/blob/main/docs/ArchitectureAndDesign.md)
   * [Logical architecture]
   * [Physical architecture]
   * [Prototype]
