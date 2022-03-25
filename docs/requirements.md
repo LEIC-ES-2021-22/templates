@@ -10,10 +10,8 @@ Create a use-case diagram in UML with all high-level use cases possibly addresse
 Give each use case a concise, results-oriented name. Use cases should reflect the tasks the user needs to be able to accomplish using the system. Include an action verb and a noun. 
 
 Example:
- <p align="center" justify="center">
-  <img src="https://github.com/LEIC-ES-2021-22/templates/blob/main/images/UseCaseView.png"/>
-</p>
 
+[7. L.EIC-ES-2021-22-Use Case and Domain Modeling with UML.pdf](https://github.com/LEIC-ES-2021-22/templates/files/8352315/7.L.EIC-ES-2021-22-Use.Case.and.Domain.Modeling.with.UML.pdf)
 
 Briefly describe each use case mentioning the following:
 
