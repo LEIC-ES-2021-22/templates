@@ -6,7 +6,7 @@ You can find here detailed about the product (or mini-app or module), from a hig
 
 * Business modeling 
   * [Product Vision](https://github.com/LEIC-ES-2021-22/templates/blob/main/docs/ProductVision.md)
-  * [Elevator Pitch]
+  * [Elevator Pitch](https://github.com/LEIC-ES-2021-22/templates/blob/main/docs/ElevatorPitch.md)
 * [Requirements](https://github.com/LEIC-ES-2021-22/templates/blob/main/docs/requirements.md)
   * [Use Case Model](https://github.com/LEIC-ES-2021-22/templates/blob/main/docs/requirements.md#Use-case-model)
   * [User stories](https://github.com/LEIC-ES-2021-22/templates/blob/main/docs/requirements.md#User-stories)
