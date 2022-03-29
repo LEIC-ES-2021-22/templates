@@ -26,7 +26,8 @@ It should describe also the technologies considered and justify the selections m
 
 Example of _UML deployment diagram_ showing a _deployment view_ of the Eletronic Ticketing System (please notice that, instead of software components, one should represent their physical/executable manifestations for deployment, called artifacts in UML; the diagram should be accompanied by a short description of each node and artifact):
 
-![DeploymentView](https://user-images.githubusercontent.com/9655877/160585791-e964114e-2b95-462d-b30b-705b97219288.png)
+![DeploymentView](https://user-images.githubusercontent.com/9655877/160592491-20e85af9-0758-4e1e-a704-0db1be3ee65d.png)
+
 
 
 ### Vertical prototype
