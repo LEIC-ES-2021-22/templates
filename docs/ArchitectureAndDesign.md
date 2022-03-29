@@ -15,7 +15,8 @@ It can be beneficial to present the system both in a horizontal or vertical deco
 * horizontal decomposition may define layers and implementation concepts, such as the user interface, business logic and concepts; 
 * vertical decomposition can define a hierarchy of subsystems that cover all layers of implementation.
 
-Example of _UML package diagram_ showing a _logical view_ of the Eletronic Ticketing System:
+Example of _UML package diagram_ showing a _logical view_ of the Eletronic Ticketing System (to be accompanied by a short description of each package):
+
 ![LogicalView](https://user-images.githubusercontent.com/9655877/160585416-b1278ad7-18d7-463c-b8c6-afa4f7ac7639.png)
 
 ### Physical architecture
@@ -23,11 +24,13 @@ The goal of this subsection is to document the high-level physical structure of 
 
 It should describe also the technologies considered and justify the selections made. Examples of technologies relevant for uni4all are, for example, frameworks for mobile applications (such as Flutter).
 
-Example of _UML component diagram_ showing an _implementation view_ of the Eletronic Ticketing System (please notice that in this example, there is a one-to-one relationships between logical packages and components, but that need not to be the case):
+Example of _UML component diagram_ showing an _implementation view_ of the Eletronic Ticketing System (please notice that in this example, there is a one-to-one relationships between logical packages and components, but that need not to be the case; the diagram should be accompanied by a short description of each component):
+
 ![ImplementationView](https://user-images.githubusercontent.com/9655877/160586909-994d7720-e680-4b9b-b7b8-69a7a1acb633.png)
 
 
-Example of _UML deployment diagram_ showing a _deployment view_ of the Eletronic Ticketing System (please notice that, instead of software components, one should represent their physical/executable manifestations for deployment, called artifacts in UML):
+Example of _UML deployment diagram_ showing a _deployment view_ of the Eletronic Ticketing System (please notice that, instead of software components, one should represent their physical/executable manifestations for deployment, called artifacts in UML; the diagram should be accompanied by a short description of each node and artifact):
+
 ![DeploymentView](https://user-images.githubusercontent.com/9655877/160585791-e964114e-2b95-462d-b30b-705b97219288.png)
 
 
