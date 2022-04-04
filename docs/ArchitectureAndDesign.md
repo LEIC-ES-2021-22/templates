@@ -33,7 +33,7 @@ Example of _UML deployment diagram_ showing a _deployment view_ of the Eletronic
 ### Vertical prototype
 To help on validating all the architectural, design and technological decisions made, we usually implement a vertical prototype, a thin vertical slice of the system.
 
-In this subsection please describe in more detail which, and how, user(s) story(ies) were implemented. 
+In this subsection please describe which feature you have implemented, and how, together with a snapshot of the user interface, if applicable.
 
-At this phase, instead of a concret user story, you can simply implement a feature that demonstrates thay you can use the technology, for example, show a screen with the app credits (name and authors).
+At this phase, instead of a complete user story, you can simply implement a feature that demonstrates thay you can use the technology, for example, show a screen with the app credits (name and authors).
 
