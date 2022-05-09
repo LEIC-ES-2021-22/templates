@@ -18,7 +18,7 @@ You can find here detailed about the product (or mini-app or module), from a hig
 * [Implementation]
 * [Test]
 * [Configuration and change management]
-* [Project management]
+* [Project management](https://github.com/LEIC-ES-2021-22/templates/blob/main/docs/ProjectManagement.md)
 
 So far, contributions are exclusively made by the initial team, but we hope to open them to the community, in all areas and topics: requirements, technologies, development, experimentation, testing, etc.
 
